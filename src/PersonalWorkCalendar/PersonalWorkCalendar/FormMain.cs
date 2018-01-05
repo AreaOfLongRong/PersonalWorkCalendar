@@ -7,10 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DevComponents.DotNetBar;
 
 namespace PersonalWorkCalendar
 {
-    public partial class FormMain : Form
+    public partial class FormMain : Office2007RibbonForm
     {
         public FormMain()
         {
